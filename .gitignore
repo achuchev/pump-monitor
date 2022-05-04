@@ -1,0 +1,8 @@
+bin/*
+*.DS_Store
+
+# Visual Studio Code
+.vscode/*
+*.code-workspace
+.history/
+
